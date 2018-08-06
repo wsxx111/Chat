@@ -1,0 +1,15 @@
+E:\0.Oray\InterfaceTester\TestDataProvider\bin\Debug\TestDataProvider.exe
+E:\0.Oray\InterfaceTester\TestDataProvider\bin\Debug\TestDataProvider.pdb
+E:\0.Oray\InterfaceTester\TestDataProvider\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\0.Oray\InterfaceTester\TestDataProvider\obj\x86\Debug\TestDataProvider.Properties.Resources.resources
+E:\0.Oray\InterfaceTester\TestDataProvider\obj\x86\Debug\ResGen.read.1.tlog
+E:\0.Oray\InterfaceTester\TestDataProvider\obj\x86\Debug\ResGen.write.1.tlog
+E:\0.Oray\InterfaceTester\TestDataProvider\obj\x86\Debug\TestDataProvider.exe
+E:\0.Oray\InterfaceTester\TestDataProvider\obj\x86\Debug\TestDataProvider.pdb
+E:\0.Oray\InterfaceTester\TestDataProvider\bin\Debug\TestDataProvider.exe.config
+E:\0.Oray\InterfaceTester\TestDataProvider\obj\x86\Debug\TestDataProvider.Form1.resources
+D:\Project\1.MyProject_Part1\InterfaceTester\TestDataProvider\obj\x86\Debug\TestDataProvider.Form1.resources
+D:\Project\1.MyProject_Part1\InterfaceTester\TestDataProvider\obj\x86\Debug\TestDataProvider.Properties.Resources.resources
+D:\Project\1.MyProject_Part1\InterfaceTester\TestDataProvider\obj\x86\Debug\TestDataProvider.csproj.GenerateResource.Cache
+D:\Project\1.MyProject_Part1\InterfaceTester\TestDataProvider\obj\x86\Debug\TestDataProvider.exe
+D:\Project\1.MyProject_Part1\InterfaceTester\TestDataProvider\obj\x86\Debug\TestDataProvider.pdb

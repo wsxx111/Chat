@@ -1,0 +1,8 @@
+D:\Project\1.MyProject_Part1\InterfaceTester\TestData\bin\Debug\DemoInterface.dll
+D:\Project\1.MyProject_Part1\InterfaceTester\TestData\bin\Debug\DemoInterface.pdb
+D:\Project\1.MyProject_Part1\InterfaceTester\TestData\obj\Debug\DemoInterface.dll
+D:\Project\1.MyProject_Part1\InterfaceTester\TestData\obj\Debug\DemoInterface.pdb
+C:\Users\wangkai3\Desktop\InterfaceTester\TestData\bin\Debug\DemoInterface.dll
+C:\Users\wangkai3\Desktop\InterfaceTester\TestData\bin\Debug\DemoInterface.pdb
+C:\Users\wangkai3\Desktop\InterfaceTester\TestData\obj\Debug\DemoInterface.dll
+C:\Users\wangkai3\Desktop\InterfaceTester\TestData\obj\Debug\DemoInterface.pdb
